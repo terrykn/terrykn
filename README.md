@@ -1,4 +1,4 @@
-# 🔭 Terry Nguyen 
+# Terry Nguyen 🔭
 **`Math/CS at Rutgers University`**
 
 Hello! I'm a first-year student at Rutgers University, New Brunswick. I'm pursuing Math and Computer Science with the goal of contributing to new ideas and solving real-world problems through code.
