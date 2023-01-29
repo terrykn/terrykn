@@ -13,6 +13,7 @@ Hello! I'm a first-year student at Rutgers University, New Brunswick. I'm pursui
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/144/null/ms-excel.png"/>
+<br>
 
 ### 📃 My Portfolio
 Check out my <a href="terrykn.github.io">portfolio</a> for more info.
