@@ -1,14 +1,13 @@
 # 🔭 Terry Nguyen 
 **`Math/CS at Rutgers University`**
 
-Hello! I'm a first-year student at Rutgers University, New Brunswick. I'm pursuing Math and Computer Science with the goal of contributing to new ideas and solving problems.
+Hello! I'm a first-year student at Rutgers University, New Brunswick. I'm pursuing Math and Computer Science with the goal of contributing to new ideas and solving real-world problems through code.
 
 ### 🏝️ About Me 
 - I grew up in Vietnam and immigrated to Fort Smith, Arkansas when I was ten. I recently moved to New Jersey.
 - At Rutgers, I'm a part of the Honors College, USACS (Computer Science Student Alliance), the Rutgers sailing team, Rutgers IDEA, and Circle K.
-- In my spare time, I enjoy hiking, swimming, reading novels, playing my violin, and trying out new foods!
+- In my spare time, I enjoy hiking, swimming, reading novels, playing my violin, and trying out new foods!<br>
 
-### 📃 My Portfolio
 Check out my <a href="terrykn.github.io">portfolio</a> for more info.<br>
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
