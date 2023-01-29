@@ -8,7 +8,7 @@ Hello! I'm a first-year student at Rutgers University, New Brunswick. I'm pursui
 - At Rutgers, I'm a part of the Honors College, USACS (Computer Science Student Alliance), the Rutgers sailing team, Rutgers IDEA, and Circle K.
 - In my spare time, I enjoy hiking, swimming, reading novels, playing my violin, and trying out new foods!<br>
 
-Check out my <a href="terrykn.github.io">portfolio</a> for more info.<br>
+Check out my <a href="https://terrykn.github.io">portfolio</a> for more info.<br>
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
