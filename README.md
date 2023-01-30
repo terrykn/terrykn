@@ -5,7 +5,7 @@ Hello! I'm a first-year student at Rutgers University, New Brunswick. I'm pursui
 
 ### 🏝️ About Me 
 - I grew up in Vietnam and immigrated to Fort Smith, Arkansas when I was ten. I recently moved to New Jersey.
-- At Rutgers, I'm a part of the Honors College, USACS (Computer Science Student Alliance), the Rutgers sailing team, Rutgers IDEA, and Circle K.
+- At Rutgers, I'm a part of the Honors College, USACS (Computer Science Student Alliance), the Rutgers Sailing Team, Rutgers IDEA, and Circle K.
 - In my spare time, I enjoy hiking, swimming, reading novels, playing my violin, and trying out new foods!<br>
 
 Check out my <a href="https://terrykn.github.io">portfolio</a> for more info.<br>
