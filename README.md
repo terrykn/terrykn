@@ -1,8 +1,8 @@
 ## Terry Nguyen 🔭
 **`Math/CS at Rutgers University`**
 
-Hello! I'm a student at the Honors College at Rutgers University studying Math and Computer Science.
-More about me: <a href="https://terrykn.github.io">terrykn.github.io</a><br>
+- Hello! I'm a student at the Honors College at Rutgers University studying Math and Computer Science.
+- More about me: <a href="https://terrykn.github.io">terrykn.github.io</a><br>
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
