@@ -1,8 +1,12 @@
 ## Terry Nguyen 🔭
 **`Math/CS at Rutgers University`**
 
-- Hello! I'm a student at the Honors College at Rutgers University double-majoring in Math and Computer Science.
-- More about me: <a href="https://terrykn.github.io">terrykn.github.io</a><br>
+- Hi, I’m Terry 👋🏼 I’m a Computer Science & Math double-major student at Rutgers University. 
+- 👨🏻‍💻 I have practical experience in various programming languages and frameworks through hackathons and hands-on projects, including Java, JavaScript, Python, C/C++, React, HTML, REST API, and MERN stack. I’m always open to exploring different areas of tech and learning new skills.
+- 🚀✨ My other interests include environmental research, astronomy, physics, music, and mathematics. 
+- I’m seeking hands-on experience, including software development, data science, AI/ML, networking, or other related fields. 
+
+More about me: <a href="https://terrykn.github.io">terrykn.github.io</a><br>
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
