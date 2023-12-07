@@ -1,5 +1,5 @@
 ## Terry Nguyen 🔭
-**`Math/CS at Rutgers University`**
+**`CS & Math at Rutgers University`**
 
 - Hi, I’m Terry 👋🏼 I’m a Computer Science & Math double-major student at Rutgers University. 
 - 👨🏻‍💻 I have practical experience in various programming languages and frameworks through hackathons and hands-on projects, including Java, JavaScript, Python, C/C++, React, HTML, REST API, and MERN stack. I’m always open to exploring different areas of tech and learning new skills.
